@@ -1,10 +1,11 @@
 #include<stdio.h>
+
 int main()
 {
-    int x=5;
-    int y=4;
+    float x=5;
+    float =4;
 
-    int tot=x-y;
-    printf("%d",tot);
+    float tot=x/y;
+    printf("%f",tot);
     return o;
 }
